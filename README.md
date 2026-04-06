@@ -1,5 +1,5 @@
 # Moving gears graduation hat
-Print files for a gear-topped graduation hat powered by a DC motor.
+Print files for a gear-topped graduation hat powered by a 30RPM DC motor.
 
 Read everything first! You may need to make modifications depending on what parts are available to you.
 
@@ -19,16 +19,16 @@ The gears generate just enough friction to occasionally lock the motor. It's str
 
 | Component               | Quantity |
 |-------------------------|----------|
-| graduation hat gear mount    | 1        |
-| gear 1             | 1        |
-| gear 2       | 2  |
-|gear 3 |2 |
-|gear 4 |2 |
-|gear 5 |2 |
-|gear 6 |1 |
-|gear 6 with shaft |1 |
-|gear 7 |1 |
-| optional: block I gear base multi color print with block I gold topper sliced on top | 1 |
+| [graduation hat gear mount](https://github.com/shebuildsrobots/graduation_hat_gears/blob/main/graduation%20hat%20gear%20mount.stl)    | 1        |
+| [gear 1](https://github.com/shebuildsrobots/graduation_hat_gears/blob/main/gear%201.stl)             | 1        |
+| [gear 2](https://github.com/shebuildsrobots/graduation_hat_gears/blob/main/gear%202.stl)       | 2  |
+|[gear 3](https://github.com/shebuildsrobots/graduation_hat_gears/blob/main/gear%203.stl) |2 |
+|[gear 4](https://github.com/shebuildsrobots/graduation_hat_gears/blob/main/gear%204.stl) |2 |
+|[gear 5](https://github.com/shebuildsrobots/graduation_hat_gears/blob/main/gear%205.stl) |2 |
+|[gear 6](https://github.com/shebuildsrobots/graduation_hat_gears/blob/main/gear%206.stl) |1 |
+|[gear 6 with shaft](https://github.com/shebuildsrobots/graduation_hat_gears/blob/main/gear%206%20with%20shaft.stl) |1 |
+|[gear 7](https://github.com/shebuildsrobots/graduation_hat_gears/blob/main/gear%207.stl) |1 |
+| optional: [block I gear base](https://github.com/shebuildsrobots/graduation_hat_gears/blob/main/block%20I%20gear%20base.stl) multi color print with [block I gold topper](https://github.com/shebuildsrobots/graduation_hat_gears/blob/main/block%20I%20gold%20topper.stl) sliced on top | 1 |
 
 My original STEP file, should you want to make edits: `gears.step`
 
@@ -40,8 +40,16 @@ Punch a hole in the graduation hat where the motor (on the underside of the hat)
 
 <img width="727" height="781" alt="guide" src="https://github.com/user-attachments/assets/180f11cc-c3c5-4699-b055-794bd8f72cb1" />
 
+Solder wires to the gearbox, if necessary, and solder the wires to your coin cell battery holder. Secure this unit with tape (or 3D print a mount) underneath the hat, with the shaft poking through the hole in your graduation hat.
+
+Glue the motor mount base to your graduation hat, with the hole in the base mount centered over the hole in your hat.
+
+Glue `gear 6 with shaft.stl` onto the shaft of your motor after the rest of the gear base and gears are assembled on top.
+
 ## Notes and Areas for Improvement
 I left a hole in the center of the mount for your tassel, but there's really no place for the tassel to go where it won't disrupt the gears! If you redesign this to accomodate a tassel, you could put all of the mounts on stilts that attach to the hat so that all the gears are slightly raised and the tassel can go underneath.
+
+To make your gear surfaces look nicer, turn on top layer ironing in your advanced slicer settings.
 
 
 
