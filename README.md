@@ -32,3 +32,16 @@ The gears generate just enough friction to occasionally lock the motor. It's str
 
 My original STEP file, should you want to make edits: `gears.step`
 
+## Assembly guide
+
+Add the shims to the base before snapping on the gears.
+
+Punch a hole in the graduation hat where the motor (on the underside of the hat) will connect to gear 5 (on top of the hat).
+
+<img width="727" height="781" alt="guide" src="https://github.com/user-attachments/assets/180f11cc-c3c5-4699-b055-794bd8f72cb1" />
+
+## Notes and Areas for Improvement
+I left a hole in the center of the mount for your tassel, but there's really no place for the tassel to go where it won't disrupt the gears! If you redesign this to accomodate a tassel, you could put all of the mounts on stilts that attach to the hat so that all the gears are slightly raised and the tassel can go underneath.
+
+
+
