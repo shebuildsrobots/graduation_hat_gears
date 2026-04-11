@@ -7,7 +7,7 @@ Read everything first! You may need to make modifications depending on what part
 
 | Component               | Quantity | Link |
 |-------------------------|----------|----------|
-| N20 DC Motor, 30 RPM    | 1        |          |
+| N20 DC Motor, 30 RPM; ideally side-mounted shaft    | 1        | [Amazon](https://www.amazon.com/Hilitand-Brush-Geared-1218GE%E2%80%91N20-Reduction/dp/B08LL9Q7M4/ref=sxin_17_pa_sp_search_thematic_sspa?adgrpid=193135397666&content-id=amzn1.sym.cdeaf89b-0b83-4151-b82a-07a08dc40e89%3Aamzn1.sym.cdeaf89b-0b83-4151-b82a-07a08dc40e89&cv_ct_cx=n20+30+rpm&hvadid=798461285696&hvdev=c&hvexpln=0&hvlocphy=9021716&hvnetw=g&hvocijid=886110446030403631--&hvqmt=e&hvrand=886110446030403631&hvtargid=kwd-788924243933&hydadcr=7710_13881995_2490391&keywords=n20+30+rpm&mcid=6d7ab2600d3637e39a4d8e8a8ebba849&pd_rd_i=B08LL9Q7M4&pd_rd_r=f2e2b5e2-b931-439f-acf2-fdd7980e100e&pd_rd_w=A2gjA&pd_rd_wg=Kngwz&pf_rd_p=cdeaf89b-0b83-4151-b82a-07a08dc40e89&pf_rd_r=1FW4DC2ZXMP20T7SX57R&qid=1775916973&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-6e60e730-e094-43e9-99e8-1a4854cd27ff-spons&aref=YsYj3KCoaQ&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1)         |
 | Coin Cell Battery Holder with on/off switch              | 1        |  [DigiKey](https://www.digikey.com/en/products/detail/sparkfun-electronics/13883/6557334?gclsrc=aw.ds&gad_source=1&gad_campaignid=20228387720&gbraid=0AAAAADrbLljptGJtKQWKjXFMwuZEzO-1t&gclid=Cj0KCQjwkMjOBhC5ARIsADIdb3fPinj7iKJbFy7MTJQ7lED3OSOPmnUFa0wo-xU1tzyCKjTG6tS9rLUaAr0aEALw_wcB)        |
 | Graduation hat       | 1  |          |
 | M7 0.3mm thickness shims | 12 | 
