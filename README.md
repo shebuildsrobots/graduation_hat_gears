@@ -1,5 +1,8 @@
 # Moving gears graduation hat
-Print files for a gear-topped graduation hat powered by a 30RPM DC motor.
+Print files for a gear-topped graduation hat powered by a 30RPM DC motor. See it in action on [YouTube](https://www.youtube.com/shorts/SgNcz4Yz9Ko).
+
+<img width="400" alt="gear graduation hat" src="https://github.com/user-attachments/assets/20954f5b-8ce1-4869-8237-afe71edb1269" />
+
 
 Read everything first! You may need to make modifications depending on what parts are available to you.
 
